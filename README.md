@@ -37,7 +37,7 @@ I'm **Luciano Sousa**, a passionate **developer** with a focus on delivering sol
 ## 📂 Featured Projects  
 
 Here are some of the projects that showcase my skills:  
-- 🔗 **[PYXL - Autosearch](//github.com/Luciano-project/pyxl-autosearch)**: Brief description of the project and its impact.  
+- 🔗 **[PYXL - Autosearch](//github.com/Luciano-project/pyxl-autosearch)**: Open Source tool to automate the data extaction and update into excel files.  
 
 ---
 
