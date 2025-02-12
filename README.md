@@ -6,7 +6,7 @@ I'm **Luciano Sousa**, a passionate **developer** with a focus on delivering sol
 
 ## 🚀 About Me  
 
-- 💻 Currently expanding my expertise in **JavaScript** and **modern web development**.  
+- 💻 Currently expanding my expertise in **Containers** and **modern web development**.  
 - 🛠️ Experienced in building and maintaining **backend systems** and **database solutions**.  
 - 🌱 Passionate about learning new technologies and staying up-to-date with industry trends.  
 - 🤝 Open to **freelance projects**, collaborations, and full-time opportunities.  
