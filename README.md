@@ -28,11 +28,7 @@ I'm **Luciano Sousa**, a passionate **developer** with a focus on delivering sol
   <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-project&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciano-project)
-
----
+--
 
 ## 📂 Featured Projects  
 
